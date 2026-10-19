@@ -46,3 +46,7 @@ Note: Original datasets are not included in this repository.
 Purpose
 
 This project demonstrates practical skills in data analysis, data modeling, KPI development, and business intelligence reporting across multiple tools.
+
+## Dashboard Preview
+
+![AdventureWorks Dashboard](Screenshot%202026-10-19%20130925.png)
